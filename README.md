@@ -1,6 +1,6 @@
 ### Hi there Daksh Nayak here!👋
 
-A AI-ML student and Learning Agentic AI
+An AI-ML student and Learning Agentic AI
 <br/>
 
 ![Profile views](https://komarev.com/ghpvc/?username=DakshN07&color=blue)
